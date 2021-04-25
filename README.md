@@ -1,4 +1,4 @@
-# bookshelf-app-back-end Project 
+# Bookshelf API Project 
 Submission for "Belajar Membuat Aplikasi Back-End untuk Pemula" on [Dicoding Academy](https://www.dicoding.com/).
 
 
